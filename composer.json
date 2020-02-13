@@ -1,0 +1,29 @@
+{
+    "name": "p2pb2b/php-p2pb2b-api",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "description": "",
+    "authors": [
+        {
+            "name": "Team",
+            "email": "team@partida.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2",
+        "guzzlehttp/guzzle": "^6.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "P2pb2b\\":  ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.0"
+        }
+    }
+}

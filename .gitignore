@@ -1,0 +1,4 @@
+/vendor
+/.idea
+/composer.lock
+/php-p2pb2b-api-config.json
