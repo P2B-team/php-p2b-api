@@ -19,7 +19,7 @@ class Api
 {
     public const SHA512 = 'sha512';
     protected const ENDPOINT_PREFIX = '/api/v2';
-    const BASE_URI = 'https://api.p2pb2b.io/';
+    const BASE_URI = 'https://api.p2pb2b.com/';
     const TIMEOUT = 10.0;
 
     public $api_key = '';
