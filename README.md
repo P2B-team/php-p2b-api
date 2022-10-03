@@ -57,4 +57,4 @@ The examples use random parameters.
 
 When transmitting incorrect or non-existent data in a request, you can see a module validation error or an unsuccessful api response.
 
-Api response errors can be found in the documentation: <https://github.com/P2pb2b-team/p2pb2b-api-docs/blob/master/errors.md>
+Api response errors can be found in the documentation: <https://github.com/P2B-team/p2b-api-docs/blob/master/errors.md>
