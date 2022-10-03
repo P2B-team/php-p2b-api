@@ -1,7 +1,7 @@
-# php-p2pb2b-api
+# php-p2b-api
 
 
-**api documentation:**  <https://github.com/P2pb2b-team/p2pb2b-api-docs>
+**api documentation:**  <https://github.com/P2b-team/p2b-api-docs>
 
 
 To access the private API, you must have access setting parameters: **KEY API**, **API SECRET**. And other conditions for working with the private API are met.
